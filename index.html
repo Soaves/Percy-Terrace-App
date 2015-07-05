@@ -1,46 +1,154 @@
 <!DOCTYPE html>
-<!--
-    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
-
-    Licensed to the Apache Software Foundation (ASF) under one
-    or more contributor license agreements.  See the NOTICE file
-    distributed with this work for additional information
-    regarding copyright ownership.  The ASF licenses this file
-    to you under the Apache License, Version 2.0 (the
-    "License"); you may not use this file except in compliance
-    with the License.  You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing,
-    software distributed under the License is distributed on an
-    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-     KIND, either express or implied.  See the License for the
-    specific language governing permissions and limitations
-    under the License.
--->
 <html>
     <head>
-        <meta charset="utf-8" />
-        <meta name="format-detection" content="telephone=no" />
-        <meta name="msapplication-tap-highlight" content="no" />
-        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
-        <link rel="stylesheet" type="text/css" href="css/index.css" />
-        <title>Hello World</title>
+    <meta charset="utf-8">
+    <title>Mobile for Percy Terrace Bed and Breakfast</title>
+    <link href="../../Documents/Mobilefor Percy TerraceB&B/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../../Documents/Mobilefor Percy TerraceB&B/themes/jquery.mobile.icons.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../../Documents/Mobilefor Percy TerraceB&B/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../../Documents/Mobilefor Percy TerraceB&B/CustomMobile.css" rel="stylesheet" type="text/css">
+    <script src="../../Documents/Mobilefor Percy TerraceB&B/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+    <script src="../../Documents/Mobilefor Percy TerraceB&B/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+    <script type="text/javascript" charset="utf-8" src="../../Documents/Mobilefor Percy TerraceB&B/cordova.js"></script>
+
+
+
+<script type="text/javascript" src="../../Documents/Mobilefor Percy TerraceB&B/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="../../Documents/Mobilefor Percy TerraceB&B/jquery.cycle.all.js"></script>
+      <script type="text/javascript">
+$('#slider').cycle({
+	
+	
+	});
+
+</script>
+
+
+
     </head>
     <body>
-        <div class="app">
-            <h1>PhoneGap</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
-            </div>
+<div data-role="page" id="page">
+      <div class="ui-content" data-role="header" data-theme="b">
+    <h1 class="ui-title">Percy Terrace B&amp;B</h1>
+    <img src="../../Documents/Mobilefor Percy TerraceB&B/door_2013.png" alt="door" class="ui-content"> </div>
+      <div data-role="content" data-theme="b">
+
+      <div id="slider">
+    <img src="../../Documents/Mobilefor Percy TerraceB&B/Images/Images/FrontDoor.jpg" alt="front door">
+    
+    <img src="../../Documents/Mobilefor Percy TerraceB&B/Family Room  Mirror160713.jpg" alt="mirror"> 
+    <img src="file:///C|/Users/Paul/Documents/Percy Terrace 2009/Mobileresponsive/Images/couch_1.jpg">
+    <img src="file:///C|/Users/Paul/Documents/Percy Terrace 2009/Mobileresponsive/Images/breakfastbar.jpg" alt="breakfastbar" width="400">
+    
+     
+     <img src"Images/breakfastbar_1.jpg" width="378"> 
+     <img src="file:///C|/Users/Paul/Documents/Percy Terrace 2009/Mobileresponsive/Images/Ensuite_main_Photo.jpg" alt="ensuite">
+     <img src="file:///C|/Users/Paul/Documents/Percy Terrace 2009/Mobileresponsive/Images/ensuitebathroom_1.jpg" alt="ensuitebathroom" width="400">
+     <img src="file:///C|/Users/Paul/Documents/Percy Terrace 2009/Mobileresponsive/Images/Family Room  Bed160713.jpg" alt="familyroom" width="400"></div>
+    <div class="text" id="Bookingwidget">
+      <script type="text/javascript" src="http://www.booking.com/general.html?tmpl=bookit;aid=330843;lang=en;hotel_id=602794;cc1=gb;hotel_page=percy-terrace-bed-and-breakfast"></script>
+      
+      
+      
+      </div>
+
+    <p class="text">We are one of the closest bed and breakfast to town in the Alnwick area. We offer a high standard of comfortable, and inviting accommodation very near the centre of Alnwick. We have 2 large sunny double rooms, one with <a href="#page2">Ensuite</a> and one <a href="#page3">Family Room </a>with private facilities. Each room is decorated in an eye-catching style with colours that will attract and excite you. Original art on the walls completes an ambience not likely to be found elsewhere.
+        <p class="text">Accommodation is a three minute walk to the town square, Alnwick Garden, and Alnwick Castle. The breathtaking Northumbrian coastline is minutes away and offers miles of sandy coastline, ideal for walking.</p>
+    <p class="text">We welcome walkers and cyclists where you are assured of a special welcome and access to local information to help you plan your excursions. We are within easy walking distance of all main attractions in Alnwick including the Alnwick Garden, Barter Books and the Playhouse. Please contact us either on +441665606867or by email. </p>
+    <p class="text">Everything is individually prepared to order on the premises from a wide ranging menu. Special diets catered for including vegetarian and gluten free.
+          In September we all enjoy our ever popular Food Festival and accompanying Beer Festival. Come and join us. Why not come and see this historic market town,  home of the Duke and Duchess of Northumberland and many historic features. .</p>
+    <ul data-role="listview">
+          <li><a href="#page2">Ensuite</a></li>
+          <li><a href="#page3">Family Room</a></li>
+          <li><a href="#page4">Breakfast</a></li>
+          <li><a href="#page5">Terms and Conditions</a></li>
+        </ul>
+  </div>
+      <div data-role="footer" data-theme="e">
+    <h4><a href="#page2" data-icon="arrow-r" data-role="button" data-theme="b">next page</a></h4>
+    
+  </div>
+    </div>
+<div data-role="page" id="page2">
+      <div data-role="header" data-theme="b">
+    <h1>Ensuite Bedroom</h1>
+    <div data-role="content" data-theme="b"> <img src="../../Documents/Mobilefor Percy TerraceB&B/Ensuite_main_Photo_1.jpg" alt="ensuite" class="ui-title">
+          <p class="text">Enjoy the afternoon sun in this restful room, which is  decorated in shades of green.
+      
+          <p class="text">In the bedroom we  have coffee and tea-making facilities, alarm clock, hair dryer, shared ironing board and a modern TV and DVD player. </p>
         </div>
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
-        <script type="text/javascript">
-            app.initialize();
-        </script>
-    </body>
+    <div data-role="footer" data-theme="e">
+          <h4><a href="#page3" data-icon="arrow-r" data-iconpos="left" data-role="button" data-theme="b">next page</a></h4>
+        <h4><a href="#page" data-icon="arrow-l" data-role="button" data-theme="b">previous</a></h4>
+    </div>
+  </div>
+    </div>
+<div data-role="page" id="page3">
+      <div data-role="header" data-theme="b">
+    <h1>Family Room</h1>
+    <img src="../../Documents/Mobilefor Percy TerraceB&B/Family Room.jpg" class="ui-title"  align="middle" alt="family Room"> </div>
+      <div data-role="content">
+    <p class="text">This is also a large sunny room 
+          with a double bed and single bed that easily sleeps 3 adults or 2 adults and a child. Beautifully decorated in blues and pink, this room has private facilities with a modern shower and rolltop bath. As well there are tea and coffee making facilities, alarm clock, iron and ironing board, hair dryer, TV and DVD player. </p>
+    <p class="text">A free wireless connection is available.</p>
+    <p class="text">In the bedroom we  have coffee and tea-making facilities, alarm clock, hair dryer, shared ironing board and a modern TV and DVD player. </p>
+    <div data-role="footer" data-theme="e">
+             <h4><a href="#page4" data-icon="arrow-r" data-role="button" data-theme="b">next page</a>
+             </h4>
+    </div>
+  </div>
+  </div>
+      <div data-role="page" id="page4">
+    <div data-role="header" data-theme="b">
+          <h1>Breakfast</h1>
+          <img src="../../Documents/Mobilefor Percy TerraceB&B/diningtable.png"  alt="dining" class="ui-title"> </div>
+    <div data-role="content" data-theme="b">
+          <p class=text> We strive to prepare a breakfast worth remembering while you are on holiday at Percy Terrace Bed and Breakfast. Individually prepared from local ingredients, you can enjoy the breakfast range from our standard menu or order variations which may include vegetarian or glutenfree options. Our normal breakfast menu can be perused on this link:<a href="../../Documents/Mobilefor Percy TerraceB&B/Breakfast Menu_2011_2.pdf"> breakfast link</a></p>
+        </div>
+    
+    <div data-role="footer" data-theme="e">
+      <h4><a href="#page5" data-icon="arrow-r" data-role="button" data-theme="b">next page</a></h4>
+          
+        </div>
+  </div>
+    </div>
+<div data-role="page" id="page5">
+      <div data-role="header" data-theme="b">
+    <h1>Terms and Conditions</h1>
+  </div>
+      <div data-role="content">
+    <p>For advanced bookings a minimum of two nights is usually required. Late bookings for single nights will be accepted if we have an available room but with an increased tariff of &pound;5.00 per person. &nbsp;Please Telephone us for availability.&nbsp;<br />
+        </p>
+    <p class="terms"><u>Reservations</u><br />
+          A non-refundable deposit by debit card, credit card or cheque for the first night&rsquo;s tariff is required to reserve each room. A charge of 2% is made for the use of credit cards to cover card processing cost.<br />
+          Deposits should be received within 5 days of making the reservation otherwise we cannot guarantee the room. Deposit cheques should be made payable to Percy Terrace Bed and Breakfast.<br />
+        </p>
+    <p class="terms"><u>Cancellations</u><br />
+          If you cancel within 30 days of the first night's reservation the balance of the booking is payable. If we are able to re-let the room you would be refunded with deduction of an admin fee of &pound;20&nbsp;<a name="vouchers" id="vouchers"></a><br />
+        </p>
+    <p><span class="terms"><u>Arrivals and Departures</u><br />
+      </span>
+        <p class="terms"> Please arrive between 4pm and 9pm unless we have agreed and confirmed alternative arrangements.If unforeseen circumstances on the day affect your confirmed arrival schedule please telephone us.<br />
+        </p>
+    <p class="terms"><u>Departure</u><br />
+          Rooms should be vacated by 10.00 on your day of departure.<br />
+        </p>
+    <p class="terms"><u>Settlement<br />
+      </u>Settlement by cash or debit card may be preferred as credit card payments carry a processing charge of up to 2% that would be added to the bill.<br />
+        </p>
+    <p class="terms"><u>Dietary Requirements<br />
+      </u>If any guests have special dietary requirements we can cater for these if advised at the time of booking.<br />
+        </p>
+    <p class="terms"><u>No Smoking<br />
+      </u>For the comfort and safety of all our guests Percy Terrace Bed and Breakfast is exclusively non- smoking. Abuse of this condition will incur a 100 pound  surcharge fee to cover the cost of additional cleaning.<br />
+        </p>
+  </div>
+      <div data-role="footer" data-theme="e">
+      <h4><a href="#page" data-icon="arrow-r" data-iconpos="right" data-role="button" data-theme="b">Home</a></h4>
+  </div>
+    
+    </div>
+</div>
+</div>
+</body>
 </html>
