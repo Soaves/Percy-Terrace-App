@@ -1,0 +1,271 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "04/07/2010">
+	<sitename>Early Summer Allotment_2010</sitename>
+	<photographer>Paul Penman</photographer>
+	<contactinfo>paul@alnwick-bedandbreakfast.co.uk</contactinfo>
+	<email>paul@alnwick-bedandbreakfast.co.uk</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "1"> </large>
+<images id = "images">
+
+<image
+path = "DSC_0105_2695.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0105_2695.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0106_2696.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0106_2696.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0108_2698.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0108_2698.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0109_2699.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0109_2699.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0110_2700.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0110_2700.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0111_2701.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0111_2701.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0112_2702.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0112_2702.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0113_2703.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0113_2703.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0114_2704.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0114_2704.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0115_2705.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0115_2705.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0116_2706.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0116_2706.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0117_2707.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0117_2707.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0118_2708.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0118_2708.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0119_2709.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0119_2709.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0120_2710.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0120_2710.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0121_2711.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0121_2711.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0122_2712.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0122_2712.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0123_2713.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0123_2713.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0125_2715.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0125_2715.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0130_2720.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0130_2720.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0133_2723.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0133_2723.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0134_2724.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0134_2724.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0135_2725.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0135_2725.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0136_2726.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0136_2726.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_0137_2727.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_0137_2727.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>
